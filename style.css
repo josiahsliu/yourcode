@@ -1,0 +1,30 @@
+.nav-link {
+  color :black;
+}
+.button{
+  color :white;
+}
+h1{
+  font-size:60px;
+}
+a {
+  color :black;
+}
+.col-8{
+  position : absolute;
+  color : white;
+  left :200%;
+  top :50%;
+  font-size: 50px;
+  transform : translate(-50%,-50%);
+  font-family : Roboto;
+}
+.col-7{
+  position : absolute;
+  color : white;
+  left :50%;
+  top :50%;
+  font-size: 50px;
+  transform : translate(-50%,-50%);
+  font-family : Roboto;
+}
